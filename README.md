@@ -1,4 +1,4 @@
-# Pcibex
+# PCIbex
 
 EDEN Lab tasks build in Pcibex. 
 
