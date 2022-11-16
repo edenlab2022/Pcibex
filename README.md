@@ -6,7 +6,7 @@ Please upload code *and* accompanying files (e.g., csv files, images, audio) so 
 
 # Current tasks included in this repo are: #
 
-## Uploaded fall 2022: ##
+## November 2022
 
 Child MELT Pilot for ePEAR
 
