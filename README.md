@@ -1,10 +1,10 @@
-# PCIbex
+# EDEN Lab PCIbex
 
 EDEN Lab tasks build in Pcibex. 
 
 Please upload code *and* accompanying files (e.g., csv files, images, audio) so that one is able to copy + paste code into PCIbex Farm, upload files, and run. 
 
-Current tasks included in this repo are:
+# Current tasks included in this repo are: #
 
 Child MELT Pilot for ePEAR
 
